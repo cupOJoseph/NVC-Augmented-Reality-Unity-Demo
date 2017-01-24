@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vitE" size="14.000000 7.563867" />
+    <ImageTarget name="vitC" size="8.000000 8.502304" />
+    <ImageTarget name="angelcard" size="15.000000 22.049820" />
+    <ImageTarget name="sodium_glycocholate" size="15.000000 8.333333" />
+    <ImageTarget name="zombiecard" size="50.000000 71.065086" />
+    <ImageTarget name="white_stones" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>

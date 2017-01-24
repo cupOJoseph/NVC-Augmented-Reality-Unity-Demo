@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARdemo_robot.unity
+  isLoaded: 1
+  isActive: 1
